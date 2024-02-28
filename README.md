@@ -6,3 +6,5 @@ Current stage  : Static web-page
 Original project (Do some coding) :https://www.youtube.com/@dosomecoding
 
 Favicont link : https://icons8.com/icon/tL4HcqvaoJn7/dollar-ethereum-exchange
+
+Live link (netlify): https://crypto-night-101.netlify.app/
